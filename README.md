@@ -1,4 +1,4 @@
-mine
+test
 ====
 
-練習用
+Practice at github!
